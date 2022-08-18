@@ -1,0 +1,38 @@
+Tipos de subrutinas 
+funciones y procedimientos
+
+
+difernecia entre argumentos y parametros  //buscar mas sobre le tema
+
+POO progframacion orientada a objetos
+
+ Objeto 
+    El objeto es un respositorio de datos. se puede modelar como los audifonos ya creados.
+    
+
+Clases 
+    Es que es en general como la clase de audifono, con cierto tamanio color y decivbeles 
+
+Campos o atributos 
+    ES EL ESTADO DE UN Objeto
+
+Metodos
+    Representan la accion
+
+los metodos y atributos estan definidos en la clase.
+
+Instancia 
+    objeto que pertence la clase, que se sabne de que tipo es
+
+
+
+    CLase <------------Objeto 
+      ^ ^
+      |  \
+      |   \             
+      |    \                        Instancia 
+      |     \
+      |    Metodos 
+    Campos 
+
+

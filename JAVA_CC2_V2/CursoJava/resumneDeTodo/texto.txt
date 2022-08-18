@@ -1,0 +1,3 @@
+#Variables.
+#Se pueden tomar en cuenta las variables como almacenamiento de cajas que es dependiendo que tipo de dato se refiere 
+para que se alcmaene en una caja 

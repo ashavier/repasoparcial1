@@ -1,0 +1,117 @@
+Introduccion programacion orientada a objetos
+Primer semestre programacion modular 
+
+
+
+Con la programacion orientada a objetos
+los objetos dentro del programa interactuan entre si para reslizar distintas tareas, generalmente son de distintos tipos   
+
+-Conceptos basicos
+Objeto:
+    Forma en que modelamos las cosas realies o abstractas en POO. 
+    Lugar donde guardamos los datos. 
+    "Mirar imagen 1"
+
+Clases:
+    Los objetos de un mismo tipo se clasifican por clase. En ella se define las caracteristicas del tipo de objeto (atribnutos y acciones)
+    "Mirar imagen 1"
+
+Campos o Atributos: (caracterisitcas)
+    Son los datos con los que ser representa el estado de un objeto. Estan dentro del objeto
+    "Mirar imagen 1" 
+
+Metodos o acciones: 
+    Representan las acciones que se le pueden aplicar al objeto. 
+    "Mirar imagen 1"
+     
+Instancia 
+    Objeto que pertenece a una clase, ya sabemos a que clase pertenencen (que es del tipo de la clase)
+    INstanciasr un opbjeto de una clase
+    crear un objeto que pertenece a la clase 
+    INstancia es cuando ya sabemnos a que clase se refiere. se tiene mucho mas informacion y sabemos donde nace
+    
+
+
+Se deben de tomar estos metedos tambien
+Hernencia:
+    Una clase tiene la capacidad de heredar caracterisitcas (atrinutos y acciones) de otra clase
+
+Encapsulamiento:
+    Se puede definir un tipo de objeto de tal fomra que su estado (campos) pueda estar
+    oculto y  la unica fomra de accederlo o modificarlo seria mediante la llamda a una acciones
+    (Los campos son privados hasta que una accion altere el estado )
+
+Polimorfismo
+    A dos objetos distintos se le spuede aplciar la misma accion, pero cada uno reaccionara segun su calse.
+    
+
+
+Java
+Lenguaje orientado a objetos
+"Ir a HolaMundo"
+por cada cambio de palabra se debe de escribir  con mayusuclas para un mejor entendimiento. 
+
+
+Para ejecutar un programa en la terminal
+
+javac NombreDelArchivo.javac
+java NombreDelArchivo
+
+se debe de complirar el programa y luego ejecutar. 
+    public static void main(String[] args){ //Esto es un metodo.  
+
+
+-funciones == Metodos 
+
+-Si el main sea declarado como void no da valor de retorno
+
+-el unico parametro main es una arreglo de strings. 
+
+-Todas las instrucciones en java terminan con ;
+
+-Los strings siempre deben de ir con ""\
+
+- El punto(.) se utiliza para indicar que se quiere aplicar una accion a un objeto o que se quiere referenciar un objeto a que pertenece la clase
+    COmo ejemplo "Aplique la accion println, al objeto llamado out, que pertenece a la clase Systemg"
+
+-En Java, System.out se refiuer al outpuut sdefaulrt o satnadar 
+
+
+
+
+Clase = molde 
+
+
+Clase Cubo 
+
+Atrubuto 
+- nombre 
+- textura 
+- dimension 
+
+
+Objeto, tnt, agua etc.
+Tnt:
+    Atribuitos
+        - nombre 
+        - textura 
+        - dimension 
+    
+    Metodos 
+        - Explotar();
+
+
+Agua:
+    Atribuitos
+        - nombre 
+        - textura 
+        - dimension 
+    
+    Metodos 
+        - Epanndirse();
+
+
+
+El constructor es cuando se creas un objeto. 
+
+ 

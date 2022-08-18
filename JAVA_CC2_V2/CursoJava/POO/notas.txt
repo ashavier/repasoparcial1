@@ -1,0 +1,42 @@
+Todo lo que aprendi en python era programacion estructurada o procedimental 
+solamente se utilizan secuencais
+selecion(if yuu switch)
+iteracion (bucles )
+
+
+POO
+Es una manera de diseniar y desarrollar software que trata de uimitar la reaslidad tomando altgunos concpetos
+esenciales de  ella. 
+
+El primero de estos es precisamente le objeto cuyos rasgos son la identidad, el estado y el comportamineto. 
+objeto
+- LA identidad es el nombre que diastingue a un objeto de otro.
+- El estadom son las caracterisitcas que lo describnen al objeto.
+- EL comportamienlto, es lo que puede hacer el objeto. 
+
+Ejemplo de dos perros
+
+NOmbre de un objeto es su identidad
+
+{Chester y Milo es su identidad}
+
+   {- Raza
+    - Edad
+    - Rasgops fisicos
+    Este es su estado }
+
+   {- Ladran
+    - Corren
+    - Juegan
+    - Comen 
+    - Duermen
+    Este es su comportamiento }
+
+
+
+Si nos piden que que creemos en programacion orientada a objetos en base al ejemplo anterior
+
+    - Creariamos la clase:Perro.java
+    - Tendría las variables:raza,coloryedad
+    - Tendría los métodos:ladrar(),correr(),jugar(),comer()ydormir()
+    - Tendría identificadores:ChestervMilo

@@ -1,0 +1,7 @@
+standar input output
+
+System.out //se refiere a al estandar outuput es el output de la consola
+    pertence a la clase InputStream el objeto, es un objeto de tipo InputStream
+
+System.in // se refiere al standar input (el taclado lo que se escribe en la consola)
+    PrintStream  es un objeto de la clase 

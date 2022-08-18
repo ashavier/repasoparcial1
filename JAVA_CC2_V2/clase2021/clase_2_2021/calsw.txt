@@ -1,0 +1,47 @@
+Para poder utilizar un objeto la definicion de la clase 3es u   qe pertence simepre nos provee tres cosas importantes 
+
+objeto 
+    -datos(campos )
+    -Acciones(metodos)
+    -Forma de crearlos (constructores)(Metodos especiuales que permite consttruir un objeto de la clase)
+
+
+
+private se puede usar el encapsulamiento para que no puedan ser acedidos directamente a ellos. 
+void no devuelve nada 
+
+En python 
+
+programa (.py)
+|
+|   Python (interprete)
+|
+resultado 
+
+
+java 
+
+programa(.java)
+|
+|   javac
+|
+archivos(.class)
+|
+|   java
+|
+(muestra en la consola)
+
+
+constructoreses un metodo especialziado para crear un objeto de la clase.(Instanciar un objeto)
+
+    Datos (campos)
+     /
+    /
+   / 
+Objeto------------------- Formas de crearlos (constructores)
+        \
+         \  
+          \
+        Acciones(metodos)
+
+        

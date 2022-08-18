@@ -1,0 +1,20 @@
+Un string en java es constantel, es inmutable
+
+string pertenece a java.lang no se debe de importar 
+
+objeto de tipo 
+String ----> Algo 
+
+
+constructiores string
+String str1 = new String(); // es uns tring vacio
+String str2 = new String("Hola");
+String str3 = "Hola"
+
+el string se crea un espacio en memoria para almacenar ese dato 
+
+comparar archovos en java 
+
+
+//Llamadas en cascada 
+Ir aplicando metodos en la cadena 
